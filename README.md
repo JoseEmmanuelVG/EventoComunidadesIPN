@@ -9,3 +9,5 @@
 3. [Taller: Creación de aplicaciones web con ReactJS](./cursos/tallerReact.md)
 
 ## Esperamos que disfrutes el evento que hemos preparado para ti. ❤️
+
+## LINK: https://fb.watch/qrqaG9T99P/
